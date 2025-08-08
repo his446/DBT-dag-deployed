@@ -1,0 +1,3 @@
+[submodule "dags/dbt/data_pipeline"]
+	path = dags/dbt/data_pipeline
+	url = https://github.com/his446/tpch-pipeline.git
